@@ -3,11 +3,11 @@ This project was bootstrapped with Create React App.
 The project includes extra packages and improved file structure.
 
 ## Built with : 
-1:redux-toolkit to manage global state across the app
-2:using Create async thunk to handle side effect 
-3:json server that we can listen ,inserte and get data from it 
-4:Axios library  promise-based HTTP library that lets developers make requests to either their own or a third-party server to fetch data
-5:bootstrap to make it fully responsive 
+1:redux-toolkit to manage global state across the app <br>
+2:using Create async thunk to handle side effect <br>
+3:json server that we can listen ,inserte and get data from it <br>
+4:Axios library  promise-based HTTP library that lets developers make requests to either their own or a third-party server to fetch data<br>
+5:bootstrap to make it fully responsive <br>
 ## Behaviour :
  book app project fully responsive using bootstrap also using  json server
 , We can manageing global state with redux toolkit with
