@@ -1,0 +1,16 @@
+{
+  "homepage": "https://Mohamed-Ashraf7.github.io/Redux-Toolkit-App",
+  "name": "json-server",
+  "scripts": {
+    "start": "json-server -p 3005 -w data.json",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "json-server": "^0.17.3"
+  }
+}
